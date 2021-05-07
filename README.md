@@ -2,7 +2,7 @@
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning HTML, CSS, JS, React.js, Node.js, React Native
-- 👯 I’m looking to collaborate on Startups 
+- 🚀 I’m looking to collaborate on Startups 
 <p><img src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true" alt="cleissonom"/></p>
 <p>
 <a href="https://twitter.com/cleissonom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Cleisson" height="30" width="30" /></a>
