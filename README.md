@@ -4,7 +4,7 @@
 </p>
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning <strong>React, Node.js, React Native.</strong>
+- 🌱 I’m currently learning <strong>React.js, Node.js, React Native.</strong>
 - 👨‍💻 Skills:<strong> HTML, CSS, JavaScript.</strong>  
 <p><img src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true" alt="cleissonom"/></p>
 
