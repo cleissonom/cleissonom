@@ -5,7 +5,8 @@
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning <strong>React.js, Node.js, React Native.</strong>
-- 👨‍💻 Skills:<strong> HTML, CSS, JavaScript.</strong>  
+- 👨‍💻 Skills:<strong> HTML, CSS, JavaScript.</strong><br>
+- ☯︎"Live as if you were to die tomorrow. Learn as if you were to live forever."
 <p><img src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true" alt="cleissonom"/></p>
 
 
