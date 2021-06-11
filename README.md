@@ -7,8 +7,16 @@
 - 📚 I’m currently learning <strong>React, Node.js, MongoDB, React Native.</strong>
 - 👨‍💻 Skills:<strong> HTML, CSS, JavaScript, EJS, Express.</strong>
 - ☯︎"<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
-<p><img src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true" alt="cleissonom"/></p>
+  
+  ---
+  
+<div align="center">
 
+![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleissonom&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+
+</div>
 
 
 
