@@ -17,8 +17,3 @@
 
 ![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)
 
-<!--  Temporary
-git remote add origin git@github.com:cleissonom/project.spacex-launch-stats.git
-git branch -M main
-git push -u origin main  
--->
