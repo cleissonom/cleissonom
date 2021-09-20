@@ -10,7 +10,7 @@
 - 👨‍💻 Skills:<strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, SASS.</strong>
 - ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
 - 🧳 Traveler.
-  
+ 
   ---
   
 <div align="center">
