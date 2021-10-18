@@ -6,8 +6,8 @@
 </p>      
       
 <!--- 🔭 I’m currently working on ...-->
-- 📚 I’m currently learning <strong>Node.js, PostgreSQL, MongoDB, React Native.</strong> 
-- 👨‍💻 Skills:<strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, SASS.</strong>
+- 📚👨‍💻 I'm always studying and improving my skills in <strong>HTML, CSS, JS/TS, React, Node.js, Next.js, React Native, PostgreSQL, MongoDB, SASS </strong>
+
 - ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
 - 🧳 Traveler.
  
