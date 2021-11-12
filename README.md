@@ -5,7 +5,7 @@
   <a href="https://cleisson.vercel.app" target="blank" style="color: red;">My Website </a> 
 </p>        
       
-<!--- 🔭 I’m currently working on ...-->
+<!--- 🔭 I’m currently working on ...--> 
 - 📚👨‍💻 I'm always studying and improving my skills in <strong>HTML, CSS, JS/TS, React.js, Node.js, React Native, PostgreSQL, MongoDB.</strong>
 
 - ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
