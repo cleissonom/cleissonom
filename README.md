@@ -6,7 +6,8 @@
 </p>        
       
 <!--- 🔭 I’m currently working on ...--> 
-- 📚👨‍💻 I'm always studying and improving my skills in <strong>HTML, CSS, JS/TS, React.js, Node.js, React Native, PostgreSQL, MongoDB.</strong>
+- 👨‍💻 Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
+- 📚 I'm always studying and improving my skills in <strong>HTML, CSS, JS/TS, React.js, Node.js, React Native, PostgreSQL, MongoDB.</strong>
 
 - ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
 - 🧳 Traveler. 
