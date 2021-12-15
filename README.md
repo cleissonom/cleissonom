@@ -1,9 +1,5 @@
 
-<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>
-           
-<p>            
-  <a href="https://cleisson.vercel.app" target="blank" style="color: red;">My Website </a> 
-</p>        
+<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>     
        
 <!--- 🔭 I’m currently working on ...--> 
 - 👨‍💻 Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
