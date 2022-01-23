@@ -6,12 +6,11 @@
 - 📚 I'm always studying and improving my skills in <strong>HTML, CSS, JS/TS, React.js, Node.js, React Native, PostgreSQL, MongoDB.</strong>
 <!-- 
 - 📚 I'm always studying and improving my skills in:
-   - Languages: <strong>Js/Ts, Python, Solidity. </strong>
-   - Front-end: <strong>HTML, CSS, React, Next.js.</strong> 
+   - Languages: <strong>Javascript, Typescript and Solidity.</strong>
+   - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
    - Mobile: <strong>React Native</strong> -->
 - ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"
-- 🧳 Traveler. 
   
   ---    
   
