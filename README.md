@@ -9,7 +9,7 @@
    - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
   
   ---    
   
