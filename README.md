@@ -4,7 +4,7 @@
 <!--- 🔭 I’m currently working on ...--> 
 - 👨‍💻 Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
 
-- 📚 I'm always studying and improving my skills in:
+- 📚 I'm always expanding my knowledge, studying and improving my skills in:
    - Languages: <strong>Javascript and Typescript.</strong> <!-- Solidity -->
    - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
