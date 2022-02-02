@@ -10,6 +10,7 @@
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
   
   ---    
   
