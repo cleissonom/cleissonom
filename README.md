@@ -2,7 +2,7 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>     
        
 <!--- 🔭 I’m currently working on ...--> 
-- Focused on learn and practice new things everyday. I love help people around me, sharing knowledge with them to growth together.
+- I'm focused on learn and practice new things everyday. I love help people around me, sharing knowledge with them to growth together.
 
 - Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
 
