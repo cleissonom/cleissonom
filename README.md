@@ -2,9 +2,11 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>     
        
 <!--- 🔭 I’m currently working on ...--> 
-- 👨‍💻 Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
+- Focused on learn and practice new things everyday. I love help people around me, sharing knowledge with them to growth together.
 
-- 📚 I'm always expanding my knowledge, studying and improving my skills in:
+- Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
+
+- I'm always expanding my knowledge, studying and improving my skills in:
    - Languages: <strong>Javascript and Typescript.</strong> <!-- Solidity -->
    - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
