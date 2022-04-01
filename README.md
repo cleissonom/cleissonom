@@ -17,7 +17,7 @@
 • Source Control, Build Tools, Cloud Providers
 • Programming Paradigms, Software Architecture Styles
 • Design Patterns, Software Testing
-• Web Security, Services Models
+• CyberSecurity, Services Models
 • Databases, Search Engines, Caching Mechanisms
 • Message Brokers, APIs, Authentication 
 • Containarization, Orchestration
