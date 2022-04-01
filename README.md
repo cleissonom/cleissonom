@@ -14,12 +14,12 @@
 <!-- 
 • Data Structures and Algorithms
 • Agile Methodologies, Development Principles
+• Source Control, Build Tools, Cloud Providers
 • Programming Paradigms, Software Architecture Styles
 • Design Patterns, Software Testing
+• Web Security, Services Models
 • Databases, Search Engines, Caching Mechanisms
 • Message Brokers, APIs, Authentication 
-• Web Security, Services Models
-• Source Control, Build Tools, Cloud Providers
 • Containarization, Orchestration
  -->
 
