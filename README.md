@@ -12,12 +12,12 @@
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
 
 <!-- - I'm always expanding my knowledge, studying and improving my skills in:
-   - Data Structures and Algorithms
+   - Data Structures and Algorithms, Computer Networking
    - Agile Methodologies, Development Principles
    - Source Control, Build Tools, Cloud Providers
    - Programming Paradigms, Software Architecture Styles
    - Design Patterns, Software Testing
-   - CyberSecurity, Services Models
+   - CyberSecurity, Services Models, Operating System
    - Databases, Search Engines, Caching Mechanisms
    - Message Brokers, APIs, Authentication 
    - Containarization, Orchestration
