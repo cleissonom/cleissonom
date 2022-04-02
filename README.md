@@ -7,21 +7,22 @@
 - Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
 
 - I'm always expanding my knowledge, studying and improving my skills in:
-   - Languages: <strong>Javascript and Typescript.</strong> <!-- Solidity -->
+   - Languages: <strong>Javascript and Typescript.</strong>
    - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
    - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
 
-<!-- 
-• Data Structures and Algorithms
-• Agile Methodologies, Development Principles
-• Source Control, Build Tools, Cloud Providers
-• Programming Paradigms, Software Architecture Styles
-• Design Patterns, Software Testing
-• CyberSecurity, Services Models
-• Databases, Search Engines, Caching Mechanisms
-• Message Brokers, APIs, Authentication 
-• Containarization, Orchestration
- -->
+<!-- - I'm always expanding my knowledge, studying and improving my skills in:
+   - Data Structures and Algorithms
+   - Agile Methodologies, Development Principles
+   - Source Control, Build Tools, Cloud Providers
+   - Programming Paradigms, Software Architecture Styles
+   - Design Patterns, Software Testing
+   - CyberSecurity, Services Models
+   - Databases, Search Engines, Caching Mechanisms
+   - Message Brokers, APIs, Authentication 
+   - Containarization, Orchestration
+
+- Programming Languages: JavaScript, Elixir, Python, Solidity, C++, Java, PHP. -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
