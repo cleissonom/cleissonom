@@ -2,16 +2,15 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>     
        
 <!--- 🔭 I’m currently working on ...--> 
-- I'm focused on learn and practice new things everyday. I love help people around me, sharing knowledge with them to growth together.
+- Focused on learn new things every, following my curiosity, i'm always studying and improving my skills about technologies like: Software Engineering, Entrepreneurship, Crypto, CyberSecurity...
 
-- Totally capable of identifying, developing and implementing innovative, integrated and collaborative solutions, human and non-human, in various technical formats for solving real problems.
+- Specialized in delivering creative solutions in various technical formats for solving real problems.
 
-- I'm always expanding my knowledge, studying and improving my skills in:
-   - Languages: <strong>Javascript and Typescript.</strong>
-   - Front-end: <strong>HTML, CSS, React.js, Next.js.</strong> 
-   - Back-end: <strong>Node.js, PostgreSQL, MongoDB.</strong>
+ - Languages: Javascript and Typescript.
+ - Front-end: HTML, CSS, React.js, Next.js.
+ - Back-end: Node.js, PostgreSQL, MongoDB.
 
-<!-- - I'm always expanding my knowledge, studying and improving my skills in:
+<!--    - I'm always expanding my knowledge, studying and improving my skills in:
    - Data Structures and Algorithms, Computer Networking
    - Agile Methodologies, Development Principles
    - Source Control, Build Tools, Cloud Providers
@@ -33,6 +32,7 @@
 
 ![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)
            
- ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi       
+ ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
+ #LifelongLearning
 
 
