@@ -6,9 +6,9 @@
 
 - Specialized in delivering creative solutions in various technical formats for solving real problems.
 
- - Languages: Javascript and Typescript.
- - Front-end: HTML, CSS, React.js, Next.js.
- - Back-end: Node.js, PostgreSQL, MongoDB.
+Languages: Javascript and Typescript.<br>
+Front-end: HTML, CSS, React.js, Next.js.<br>
+Back-end: Node.js, PostgreSQL, MongoDB.<br>
 
 <!--    - I'm always expanding my knowledge, studying and improving my skills in:
    - Data Structures and Algorithms, Computer Networking
