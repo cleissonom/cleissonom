@@ -21,7 +21,7 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
    - Message Brokers, APIs, Authentication 
    - Containarization, Orchestration
 
-- Programming Languages: JavaScript, Python, C++, Solidity, Go, Elixir, Java and Rust.  -->
+- Programming Languages: JavaScript, Python, C++, Solidity, Go, Elixir and Rust.  -->
 
 [![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
