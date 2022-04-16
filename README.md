@@ -11,15 +11,15 @@ Front-end: HTML, CSS, React.js, Next.js.<br>
 Back-end: Node.js, PostgreSQL, MongoDB.<br>
 
 <!--    - I'm always expanding my knowledge, studying and improving my skills in:
+   - Business, Entrepreneurship, CyberSecurity, Crypto
    - Data Structures and Algorithms, Computer Networking
    - Agile Methodologies, Development Principles
    - Source Control, Build Tools, Cloud Providers
    - Programming Paradigms, Software Architecture Styles
-   - Design Patterns, Software Testing
-   - CyberSecurity, Services Models, Operating System
+   - Design Patterns, Services Models, Operating System
    - Databases, Search Engines, Caching Mechanisms
    - Message Brokers, APIs, Authentication 
-   - Containarization, Orchestration
+   - Containarization, Orchestration, Software Testing
 
 - Programming Languages: JavaScript, Python, C++, Solidity, Elixir and Java.  -->
 
