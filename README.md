@@ -36,7 +36,8 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
   
 <div align="center">
 
-![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)
+![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
            
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
  #LifelongLearning
