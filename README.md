@@ -25,7 +25,7 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
    - Design Patterns, Services Models, Operating System
    - Databases, Search Engines, Caching Mechanisms
    - Message Brokers, APIs, Authentication, Scripting
-   - Containarization, Orchestration, Software Testing
+   - Containerization, Orchestration, Software Testing
 
 - Programming Languages: JavaScript/TypeScript, Python, Elixir, Solidity, C/C++ and Rust.
 -->
