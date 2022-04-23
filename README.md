@@ -19,7 +19,7 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
    I'm always expanding my knowledge, studying and improving my skills in:
    - Business, Entrepreneurship, CyberSecurity, Crypto
    - Data Structures and Algorithms, Computer Networking
-   - Agile Methodologies, Development Principles
+   - Agile Methodologies, Development Principles, WebSecurity
    - Source Control, Build Tools, Cloud Providers
    - Programming Paradigms, Software Architecture Styles
    - Design Patterns, Services Models, Operating System
