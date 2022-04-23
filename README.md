@@ -11,7 +11,8 @@ Front-end: HTML, CSS, React.js, Next.js.<br>
 Back-end: Node.js, PostgreSQL, MongoDB.<br>
 
 
-<!-- <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>   
+<!-- 
+<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>   
 
 - Specialized in delivering creative solutions in various technical formats for solving real problems.
 
@@ -26,7 +27,8 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
    - Message Brokers, APIs, Authentication, Scripting
    - Containarization, Orchestration, Software Testing
 
-- Programming Languages: JavaScript/TypeScript, WebAssembly, Python, Solidity, C/C++ and Rust.  -->
+- Programming Languages: JavaScript/TypeScript, Python, Elixir, Solidity, C/C++ and Rust.
+-->
 
 [![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
