@@ -1,3 +1,5 @@
+<div align="center">
+       
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>
        
 <!-- 
@@ -23,8 +25,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
   
   ---    
-  
-<div align="center">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
            
