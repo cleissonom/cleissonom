@@ -2,13 +2,13 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>     
        
 <!--- 🔭 I’m currently working on ...--> 
-- Focused on learn new things every, following my curiosity, i'm always studying and improving my skills about technologies like: Software Engineering, Entrepreneurship, Crypto, CyberSecurity... 
+<!-- - Focused on learn new things every, following my curiosity, i'm always studying and improving my skills about technologies like: Software Engineering, Entrepreneurship, Crypto, CyberSecurity... 
 
 - Specialized in delivering creative solutions in various technical formats for solving real problems.
 
 Languages: Javascript and Typescript.<br>
 Front-end: HTML, CSS, React.js, Next.js.<br>
-Back-end: Node.js, PostgreSQL, MongoDB.<br>
+Back-end: Node.js, PostgreSQL, MongoDB.<br> -->
 
 
 <!-- 
@@ -38,7 +38,6 @@ Back-end: Node.js, PostgreSQL, MongoDB.<br>
   
 <div align="center">
 
-![Cleisson's Github Stats](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
            
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
