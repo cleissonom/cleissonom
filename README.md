@@ -10,7 +10,7 @@
    - Data Structures and Algorithms, Computer Networking
    - Agile Methodologies, Development Principles, WebSecurity
    - Source Control, Build Tools, Cloud Providers
-   - Programming Paradigms, Software Architecture Styles
+   - Programming Paradigms, Software Architecture
    - Design Patterns, Services Models, Operating System
    - Databases, Search Engines, Caching Mechanisms
    - Message Brokers, APIs, Authentication, Scripting
