@@ -1,8 +1,3 @@
-<div align="center">
-       
-<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>
-       
-<!-- 
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>   
 
 - Specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and improving my skills in:
@@ -16,9 +11,8 @@
    - Message Brokers, APIs, Authentication, Scripting
    - Containerization, Orchestration, Software Testing
 
-- Programming Languages: JavaScript/TypeScript, Python, Rust, C++, Solidity, SQL and Bash. 
---> 
-
+- Programming Languages: JavaScript/TypeScript, SQL and Bash. <!-- Python, Rust, C++, Solidity, -->
+<div align="center">
 
 [![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
