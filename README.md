@@ -8,6 +8,7 @@
    - Nodejs, Express, Nestjs, Jest
    - PostgreSQL, MongoDB, Prisma, TypeORM, Redis
    - DDD, TDD, SOLID, DRY, KISS...
+   - OOP, Functional Programming
 
 <!-- 
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1> 
