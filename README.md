@@ -5,7 +5,7 @@
    - SSR, SPA, SSG, ISR
    - TailwindCSS, Bootstrap, SASS, PostCSS, CSS-in-JS
    - GraphQL, REST API, Serveless, Microservices
-   - Nodejs, Express, Nestjs
+   - Nodejs, Express, Nestjs, Jest
    - PostgreSQL, MongoDB, Prisma, TypeORM, Redis
    - DDD, TDD, SOLID, DRY, KISS...
 
