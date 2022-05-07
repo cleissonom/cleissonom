@@ -24,7 +24,7 @@
    - Message Brokers, APIs, Authentication, Scripting
    - Containerization, Orchestration, Software Testing
 
-- Programming Languages: JavaScript/TypeScript, SQL and Bash. <!-- Python, Rust, C++, Solidity, 
+- Programming Languages: JavaScript/TypeScript, Python, Rust, C++, Solidity, SQL and Shell.
 -->
 
 <div align="center">
