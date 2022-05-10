@@ -36,7 +36,7 @@ Python projects
 API project
 Solidity Project
 
-- Programming Languages: JavaScript/TypeScript, Python, Rust, C++, Solidity, SQL and Shell.
+- Programming Languages: JavaScript/TypeScript, Python, Rust, C/C++, Solidity, SQL and Shell.
 -->
 
 <div align="center">
