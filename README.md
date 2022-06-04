@@ -1,4 +1,4 @@
-<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cleisson. </h1>  
+<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Cleisson. </h1>  
 
 - Frontend developer specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and improving my skills in:
    - React, Next.js, VueJs, Pinia, React Hooks, TypeScript
