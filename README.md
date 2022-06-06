@@ -20,12 +20,10 @@ Contact me:
   
   ---    
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Analytics](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark)
            
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
  #LifelongLearning
-
    
 <!-- Projects: Website, MocNews.dev, FeedbackServer -->
 
