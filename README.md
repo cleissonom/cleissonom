@@ -20,8 +20,8 @@ Contact me:
    
 See more...
    
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-1ba94c?style=flat&logo=Hackerrank&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
-[![Exercism Badge](https://img.shields.io/badge/-Exercism-dd55ff?style=flat&logo=Exercism&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-1ba94c?style=flat&logo=Hackerrank&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.hackerrank.com/cleissonconstc)
+[![Exercism Badge](https://img.shields.io/badge/-Exercism-dd55ff?style=flat&logo=Exercism&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.exercism.org/profiles/cleissonom/)
   
   ---    
 
