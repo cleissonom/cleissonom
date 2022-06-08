@@ -4,8 +4,7 @@
    - React, Next.js, VueJs, Pinia, React Hooks, TypeScript
    - SSR, SPA, SSG, ISR
    - TailwindCSS, Bootstrap, SASS, PostCSS, CSS-in-JS
-   - GraphQL, REST API, Serveless, Microservices
-   - Nodejs, Express, Nestjs, Jest
+   - Nodejs, Express, Jest
    - TDD, SOLID, DRY, KISS...
    - OOP, Functional Programming
 
