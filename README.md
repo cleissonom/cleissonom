@@ -1,12 +1,18 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Cleisson. </h1>  
 
 - Frontend developer specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and practicing my skills in:
-   - React, Next.js, VueJs, Pinia, React Hooks, TypeScript
-   - SSR, SPA, SSG, ISR
-   - TailwindCSS, Bootstrap, SASS, PostCSS, CSS-in-JS
-   - Nodejs, Express, Jest
-   - TDD, SOLID, DRY, KISS...
+   - JavaScript ES5/ES6 and TypeScript
    - OOP, Functional Programming
+   - SSR, SPA, SSG, ISR
+   - Babel, Webpack, Vite
+   - React, Next.js, Vue.js
+   - React Hooks, Redux, ContextAPI, MirageJS
+   - TailwindCSS, SASS, Styled-Components, Chakra UI
+   - Node.js, Express, Axios, REST API
+   - Jest, Cypress, Vitest, [react, vue]-testing-library
+   - JAMStack, Prismic CMS, Stripe API
+
+- Programming Languages: JavaScript/TypeScript and SQL.
 
 <div align="center">
  
