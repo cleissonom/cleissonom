@@ -5,7 +5,7 @@
    - OOP, Functional Programming
    - SSR, SPA, SSG, ISR
    - Babel, Webpack, Vite
-   - React, Next.js, Vue.js
+   - React, Next.js, Vue.js, Git, Github
    - React Hooks, Redux, ContextAPI, MirageJS
    - TailwindCSS, SASS, Styled-Components, Chakra UI
    - Node.js, Express, Axios, REST API
