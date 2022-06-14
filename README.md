@@ -13,8 +13,9 @@
    - Prismic CMS, Stripe API <!-- NextAuth.js -->
 
 - Programming Languages: JavaScript/TypeScript and SQL.
-
-<!-- React, Next, Git, JavaScript MDN, TypeScript HandBook, Node, Express, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
+<!-- ignt React and ignt Node  -->
+<!-- 👇 -->
+<!-- React, Next, Git, Node, Express, Docker, JavaScript MDN, TypeScript HandBook, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
 
 <div align="center">
  
