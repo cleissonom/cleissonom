@@ -3,14 +3,14 @@
 - Frontend developer specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and practicing my skills in:
    - JavaScript ES5/ES6 and TypeScript
    - OOP, Functional Programming
-   - SSR, SPA, SSG, ISR
-   - Babel, Webpack, Vite
+   - SSR, SPA, SSG, ISR, Babel, Webpack, Vite
    - React, Next.js, Vue.js, Git, Github
    - React Hooks, Redux, ContextAPI, MirageJS
    - TailwindCSS, SASS, Styled-Components, Chakra UI
-   - Node.js, Express, Axios, REST API
+   - Node.js, Express, Docker, Axios, REST API<!--, GraphQL-->
    - Jest, Cypress, Vitest, [react, vue]-testing-library
-   - JAMStack, Prismic CMS, Stripe API
+   - JAMStack, Serveless, Microservices
+   - Prismic CMS, Stripe API
 
 - Programming Languages: JavaScript/TypeScript and SQL.
 
