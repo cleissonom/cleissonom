@@ -10,7 +10,7 @@
    - Node.js, Express, Docker, Axios, REST API<!--, GraphQL-->
    - Jest, Cypress, Vitest, [react, vue]-testing-library
    - JAMStack, Serveless, Microservices
-   - Prismic CMS, Stripe API
+   - Prismic CMS, Stripe API <!-- NextAuth.js -->
 
 - Programming Languages: JavaScript/TypeScript and SQL.
 
