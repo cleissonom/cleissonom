@@ -14,7 +14,7 @@
 
 - Programming Languages: JavaScript/TypeScript and SQL.
 
-<!-- React, Next, Git,JavaScript MDN, TypeScript HandBook, Node, Express -->
+<!-- React, Next, Git, JavaScript MDN, TypeScript HandBook, Node, Express, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
 
 <div align="center">
  
