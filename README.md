@@ -15,7 +15,7 @@
 - Programming Languages: JavaScript/TypeScript and SQL.
 <!-- ignt React and ignt Node  -->
 <!-- 👇 -->
-<!-- React, Next, Git, Node, Express, Docker, JavaScript MDN, TypeScript HandBook, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
+<!-- React, Next, Git, Node, Express, Docker, PostgreSQL, MongoDB, JavaScript MDN, TypeScript HandBook, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
 
 <div align="center">
  
