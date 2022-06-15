@@ -11,6 +11,7 @@
    - Jest, Cypress, Vitest, [react, vue]-testing-library
    - JAMStack, Serveless, Microservices
    - Prismic CMS, Stripe API <!-- NextAuth.js -->
+<!--   - MongoDB, PostgreSQL, FaunaDB -->
 
 - Programming Languages: JavaScript/TypeScript and SQL.
 <!-- ignt React and ignt Node  -->
