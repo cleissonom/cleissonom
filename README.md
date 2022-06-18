@@ -14,7 +14,6 @@
 <!--   - MongoDB, PostgreSQL, FaunaDB -->
 
 - Programming Languages: JavaScript/TypeScript and SQL.
-<!-- ignt React and ignt Node  -->
 <!-- 👇 -->
 <!-- React, Next, Git, Node, Express, Docker, PostgreSQL, MongoDB, JavaScript MDN, TypeScript HandBook, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) -->
 
