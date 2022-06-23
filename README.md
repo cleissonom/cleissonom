@@ -1,20 +1,8 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Cleisson. </h1>  
 
-- Frontend developer specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and practicing my skills in:
-   - JavaScript ES5/ES6 and TypeScript
-   - OOP, Functional Programming
-   - SSR, SPA, SSG, ISR, Babel, Webpack, Vite
-   - React, Next.js, Vue.js, Git, Github
-   - React Hooks, Redux, ContextAPI, MirageJS
-   - TailwindCSS, SASS, Styled-Components, Chakra UI
-   - Node.js, Express, Docker, Axios, REST API<!--, GraphQL-->
-   - Jest, Cypress, Vitest, [react, vue]-testing-library
-   - JAMStack, Serveless, Microservices
-   - Prismic CMS, Stripe API <!-- NextAuth.js -->
-<!--   - MongoDB, PostgreSQL, FaunaDB -->
+Specialized in delivering creative solutions in various technical formats for solving real problems. I'm always expanding my knowledge, studying and improving my skills about Technology.
 
 - Programming Languages: JavaScript/TypeScript and SQL.
-<!-- React, Next, Git, Node, Express, Docker, PostgreSQL, MongoDB, JavaScript MDN, TypeScript HandBook, [Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08) --> 
 
 <div align="center">
  
