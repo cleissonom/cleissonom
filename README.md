@@ -5,7 +5,7 @@
 <br><br>
 Software Engineer trying to deliver creative solutions in various technical formats for solving real problems. I'm always improving my skills about Technology.
  
-- Programming Languages: JavaScript/TypeScript and SQL.
+- Programming Languages: JavaScript/TypeScript.
 
 <br><br>
 <div align="center">
