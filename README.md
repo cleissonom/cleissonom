@@ -7,7 +7,7 @@ Software Engineer trying to deliver creative solutions in various technical form
  
 - Programming Languages: JavaScript/TypeScript and SQL.
 
-<br><br><br><br>
+<br><br>
 <div align="center">
  
 Contact me:
