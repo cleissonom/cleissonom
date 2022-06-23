@@ -1,10 +1,12 @@
 <h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Cleisson. </h1>  
 
+<img align="right" height="200rem" src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark">
 
 Software Engineer trying to deliver creative solutions in various technical formats for solving real problems. I'm always improving my skills about Technology.
  
 - Programming Languages: JavaScript/TypeScript and SQL.
 
+<br><br><br><br>
 <div align="center">
  
 Contact me:
@@ -21,7 +23,7 @@ See more...
   
   ---    
 
-![Analytics](https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark)
+
            
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
  #LifelongLearning
