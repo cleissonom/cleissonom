@@ -2,6 +2,7 @@
 
 <img align="right" height="200rem" src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark">
 
+<br><br>
 Software Engineer trying to deliver creative solutions in various technical formats for solving real problems. I'm always improving my skills about Technology.
  
 - Programming Languages: JavaScript/TypeScript and SQL.
