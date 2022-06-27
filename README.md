@@ -3,7 +3,7 @@
 <img align="right" height="200rem" src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark">
 
 <br><br>
-Trying to build creative solutions in various technical formats for solving real problems.
+Trying to build creative solutions in various technical formats for solving real problems. 
 
 - Programming Languages: JavaScript/TypeScript.
 
