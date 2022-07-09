@@ -5,7 +5,7 @@
 <br><br>
 Trying to build creative solutions in various technical formats for solving real problems.  
 
-- Programming Languages: JavaScript/TypeScript.
+- Programming Languages: JavaScript/TypeScript. 
 
 <br><br>
 <div align="center">
