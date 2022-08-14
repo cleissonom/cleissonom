@@ -15,8 +15,6 @@ See more...
 [![Exercism Badge](https://img.shields.io/badge/-Exercism-dd55ff?style=flat&logo=Exercism&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.exercism.org/profiles/cleissonom/)
 
   ---    
-
-<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=cleissonom&show_icons=true&theme=vision-friendly-dark">
-           
+  
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
  #LifelongLearning
