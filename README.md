@@ -5,7 +5,7 @@ Trying to build creative solutions in various technical formats for solving real
 Contact me:
 
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/) -->
-[![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=avantiapp://)](avantiapp://)
+[![Website Badge](https://img.shields.io/badge/-Website-378805?style=flat&link=avantiapp://home/)](avantiapp://home/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.twitter.com/cleissonom/)
    
