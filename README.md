@@ -15,6 +15,6 @@ See more...
 
   ---    
   
- ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>" - Gandhi<br>
+ ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"<br>
 
 <!-- [![Blog Badge](https://img.shields.io/badge/-Blog-921232?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/blog) -->
