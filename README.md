@@ -1,4 +1,4 @@
-<h1>Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Cleisson. </h1>  
+<h1>Hello World! ✌️, I'm Cleisson. </h1>  
   
 Trying to build creative solutions in various technical formats for solving real problems.  
 
