@@ -1,11 +1,13 @@
-<h1>Hello World! ✌️, I'm Cleisson. </h1>  
+<h1>Hello World! 👋, I'm Cleisson. </h1>  
   
 Trying to build creative solutions in various technical formats for solving real problems.  
 
 Contact me:
 
-[![Website Badge](https://img.shields.io/badge/-Website-ef4743?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-Website-921232?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleissonom/)](https://www.linkedin.com/in/cleissonom/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleissonom&line_height=40&hide=HTML,CSS,SCSS&hide_progress=true"/>
 
 See more...
    
@@ -16,5 +18,3 @@ See more...
   ---    
   
  ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"<br>
-
-<!-- [![Blog Badge](https://img.shields.io/badge/-Blog-921232?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/blog) -->
