@@ -1,20 +1,33 @@
-<h1>Hello World! 👋, I'm Cleisson. </h1>  
-  
-Trying to build creative solutions in various technical formats for solving real problems.  
+# Hi, I'm Cleisson 👋
 
-Contact me:
+Senior Software Engineer focused on backend development, cloud infrastructure, and scalable systems.
 
-<!-- [![Website Badge](https://img.shields.io/badge/-Website-921232?style=flat&link=https://cleisson.vercel.app/)](https://cleisson.vercel.app/) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.cleissonom.dev/)](https://linkedin.cleissonom.dev/)
+I work primarily with:
 
-<img align="center" src="https://github-readme-stats-cleissonom.vercel.app/api/top-langs/?username=cleissonom&hide=HTML,CSS,ejs,SCSS&hide_progress=true&show_icons=true&theme=chartreuse-dark"/>
+• Python • Node.js • AWS • Kubernetes • Docker • PostgreSQL
 
-See more...
-   
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-1ba94c?style=flat&logo=Hackerrank&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.hackerrank.com/cleissonconstc)
-[![Exercism Badge](https://img.shields.io/badge/-Exercism-dd55ff?style=flat&logo=Exercism&logoColor=white&link=https://www.twitter.com/cleissonom/)](https://www.exercism.org/profiles/cleissonom/)
-[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-282828?style=flat&logo=Leetcode&logoColor=ffa116&link=https://leetcode.com/cleissonom/)](https://leetcode.com/cleissonom/)
+I’m interested in:
 
-  ---    
-  
- ☯︎ "<em>Live as if you were to die tomorrow. Learn as if you were to live forever.<em>"<br>
+- Distributed systems
+- System design
+- Cloud architecture
+- High-performance backend systems
+
+## Featured Projects
+
+### Scalable Backend API
+
+Production-ready backend using FastAPI, PostgreSQL, Docker, and AWS.
+
+### Distributed Task Processing System
+
+Async processing system using queues and workers.
+
+### Cloud Infrastructure with Terraform/CloudFormation
+
+Production-grade infrastructure as code.
+
+## Links
+
+Website: https://cleissonom.dev <br>
+LinkedIn: https://linkedin.cleissonom.dev
