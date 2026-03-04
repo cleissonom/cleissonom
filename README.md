@@ -29,5 +29,5 @@ Production-grade infrastructure as code.
 
 ## Links
 
-Website: https://cleissonom.dev <br>
-LinkedIn: https://linkedin.cleissonom.dev
+Website: https://cleisson.com <br>
+LinkedIn: https://linkedin.cleisson.com
