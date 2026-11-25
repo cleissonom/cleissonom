@@ -1,33 +1,34 @@
-# Hi, I'm Cleisson 👋
+# Cleisson de Oliveira Moura
 
-Senior Software Engineer focused on backend development, cloud infrastructure, and scalable systems.
+**Senior Software Engineer · Brazil** · [cleisson.com](https://www.cleisson.com/en-US) · [LinkedIn](https://linkedin.cleisson.com)
 
-I work primarily with:
+I build backend services with Python, Node.js and PostgreSQL, and run them on AWS with Docker and Kubernetes. I also write command-line tools in Rust and C to solve problems I run into as a developer.
 
-• Python • Node.js • AWS • Kubernetes • Docker • PostgreSQL
+[Projects](https://www.cleisson.com/en-US/projects) · [Contributions](https://www.cleisson.com/en-US/contributions) · [Experience](https://www.cleisson.com/en-US/experience) · [Blog](https://www.cleisson.com/en-US/blog)
 
-I’m interested in:
+## Open source · November 2026
 
-- Distributed systems
-- System design
-- Cloud architecture
-- High-performance backend systems
+| **6 public projects** | **4 native builds** | **3 merged fixes** |
+| :---: | :---: | :---: |
+| [Cleisson Labs](https://github.com/cleisson-labs) | [devimg v0.2.8](https://github.com/cleisson-labs/devimg/releases/tag/v0.2.8) | [Selected upstream work](#fixes-i-contributed-upstream) |
 
-## Featured Projects
+### Tools I maintain
 
-### Scalable Backend API
+- **devimg** generates responsive images and catches stale or oversized assets in CI. It runs on Linux, macOS and Windows. [devimg source](https://github.com/cleisson-labs/devimg)
+- **Kitmux** lets me configure MCP servers, skills and subagents once, then choose which coding agents can use them. [Kitmux source](https://github.com/cleisson-labs/kitmux)
 
-Production-ready backend using FastAPI, PostgreSQL, Docker, and AWS.
+The six Labs projects also share the [CI and release workflows](https://github.com/cleisson-labs/.github) I maintain for the organization.
 
-### Distributed Task Processing System
+### Fixes I contributed upstream
 
-Async processing system using queues and workers.
+| Project | Merged change |
+| :---: | --- |
+| <img src="assets/django.webp#gh-light-mode-only" alt="Django" width="60"><img src="assets/django-dark.webp#gh-dark-mode-only" alt="Django" width="60"> | Fixed how Django matches closing tags for `comment` and `verbatim` blocks when multiline tags are disabled. [Django #22322](https://github.com/django/django/pull/22322) |
+| <img src="assets/netflix.webp" alt="Netflix" width="20"> | Made Service Capacity Modeling honor hardware filters when calculating mean and percentile plans. [Service Capacity Modeling #373](https://github.com/Netflix-Skunkworks/service-capacity-modeling/pull/373) |
+| <img src="assets/aws.webp#gh-light-mode-only" alt="AWS" width="45"><img src="assets/aws-dark.webp#gh-dark-mode-only" alt="AWS" width="45"> | Fixed cookie expiry dates in Powertools for AWS Lambda (Python) so they use GMT and English day and month names across locales. [Powertools #8876](https://github.com/aws-powertools/powertools-lambda-python/pull/8876) |
 
-### Cloud Infrastructure with Terraform/CloudFormation
-
-Production-grade infrastructure as code.
-
-## Links
-
-Website: https://cleisson.com <br>
-LinkedIn: https://linkedin.cleisson.com
+<!-- Official artwork used to identify upstream projects
+Django wordmarks https://www.djangoproject.com/community/logos/
+Netflix symbol https://about.netflix.com/en/company-assets
+AWS logos https://press.aboutamazon.com/logos?p=3 and https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png
+-->
