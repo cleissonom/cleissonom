@@ -14,6 +14,7 @@ I build backend services with Python, Node.js and PostgreSQL, and run them on AW
 
 ### Tools I maintain
 
+- **Auditstream** records who changed what in a PostgreSQL database. Generated triggers capture each change with the user or AI agent behind it, even through PgBouncer. [Auditstream source](https://github.com/auditstream/auditstream) · [auditstream.dev](https://auditstream.dev)
 - **devimg** generates responsive images and catches stale or oversized assets in CI. It runs on Linux, macOS and Windows. [devimg source](https://github.com/cleisson-labs/devimg)
 - **Kitmux** lets me configure MCP servers, skills and subagents once, then choose which coding agents can use them. [Kitmux source](https://github.com/cleisson-labs/kitmux)
 
